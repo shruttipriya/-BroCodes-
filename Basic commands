@@ -3,3 +3,4 @@
 
 cout<<"Hello World";
 cin<<a;
+printf("enter the number");
