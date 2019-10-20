@@ -2,3 +2,4 @@
 
 
 cout<<"Hello World";
+cin<<a;
